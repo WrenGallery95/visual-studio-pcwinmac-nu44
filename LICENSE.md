@@ -1,4 +1,4 @@
-# 
+# Élite Visual Studio thèmes pour Mac OS | Intelligent Visual Studio thèmes pour PC Windows. Avec surveillance API et terminal intégré — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
